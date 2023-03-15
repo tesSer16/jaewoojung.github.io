@@ -1,3 +1,5 @@
+ # frozen_string_literal: true
+ 
  module Jekyll
   module HideCustomBibtex
     def hideCustomBibtex(input)
@@ -8,6 +10,13 @@
 	  end
 
       return input
+    end
+  end
+  module Drops
+    class PageDrop < Drop
+      def sort
+        @obj.data["sort"]
+      end
     end
   end
 end
