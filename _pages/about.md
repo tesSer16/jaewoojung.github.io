@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 [[CV Download]](/assets/pdf/example_pdf.pdf)
 
-I am a undergraduate student at [GIST](https://www.gist.ac.kr/kr/main.html), majoring in Electrical Engineering and Computer Science(EECS, my main field is CS). I am interested in Game-Developing and AI-Services.
+I am a undergraduate student at [GIST](https://www.gist.ac.kr/kr/main.html), majoring in Electrical Engineering and Computer Science(EECS, my main field is CS).
 
 My current interests are game-developing and AI. I'm also interested in PS and often solve the problems [[baekjoon profile]](https://www.acmicpc.net/user/jwjung0907). I have a [blog](https://blog.naver.com/jwjung0907) where I write about my studies, and some of my programming work is available on [GitHub](https://github.com/tesSer16). I still have a lot to learn, but I want to be a student who practices **_"always upgrade"_** while learning.
 
