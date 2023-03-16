@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 ---
 
-[[CV Download]](/assets/pdf/example_pdf.pdf)
+[[CV Download]](/assets/pdf/My_Resume_23-03-17.pdf)
 
 I am a undergraduate student at [GIST](https://www.gist.ac.kr/kr/main.html), majoring in Electrical Engineering and Computer Science(EECS, my main field is CS).
 
