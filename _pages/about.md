@@ -18,4 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 ---
 
+[CV](assets/pdf/example_pdf.pdf)
 On Working....
