@@ -11,12 +11,16 @@ profile:
   image: second_new_profile.png
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Call: 010-8271-8171</p>    
+    <p> Nickname: tesSer16 </p>
+    <p> I = MR^2 </p>    
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
 ---
 
-[CV](/assets/pdf/example_pdf.pdf)
-On Working....
+[[CV Download]](/assets/pdf/example_pdf.pdf)
+
+I am a undergraduate student at [GIST](https://www.gist.ac.kr/kr/main.html), majoring in Electrical Engineering and Computer Science(EECS, my main field is CS). I am interested in Game-Developing and AI-Services.
+
+My current interests are game-developing and AI. I'm also interested in PS and often solve the problems[baekjoon](https://www.acmicpc.net/user/jwjung0907). I have a [blog](https://blog.naver.com/jwjung0907) where I write about my studies, and some of my programming work is available on [GitHub](https://github.com/tesSer16). I still have a lot to learn, but I want to be a student who practices **_"always upgrade"_** while learning.
