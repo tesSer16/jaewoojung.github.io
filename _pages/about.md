@@ -5,6 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 social: true  # includes social icons at the top of the page
+[CV](/assets/pdf/example_pdf.pdf)
 
 profile:
   align: right
