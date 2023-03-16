@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+social: true  # includes social icons at the top of the page
 
 profile:
   align: right
@@ -11,16 +13,9 @@ profile:
   address: >
     <p>Call: 010-8271-8171</p>    
 
-[CV](/assets/pdf/example_pdf.pdf)
-
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
-social: true  # includes social icons at the bottom of the page
 ---
 
 On Working...
-
----
-
-test!
